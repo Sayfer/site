@@ -3,4 +3,6 @@ body{
 }
 p{
 	font-size: 20px;
+	width: 600px;
+	text-align: center;
 }
